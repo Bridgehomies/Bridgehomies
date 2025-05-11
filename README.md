@@ -46,7 +46,7 @@ We keep things modern, modular, and maintainable:
 - Need a dev team that *gets it*? That’s us.  
 - Want to work with us? Slide into our inbox.
 
-📧 contact@bridgehomies.com  
+📧 bridgehomies@gmail.com  
 🌐 [www.bridgehomies.com](http://www.bridgehomies.com)  
 🐦 [@bridgehomies](https://twitter.com/bridgehomies)  
 📸 [@bridgehomies](https://instagram.com/bridgehomies)
