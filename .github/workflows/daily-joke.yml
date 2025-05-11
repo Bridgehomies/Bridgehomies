@@ -16,7 +16,7 @@ jobs:
       - name: 🧠 Get Joke from JokeAPI
         id: joke
         run: |
-          curl -s https://v2.jokeapi.dev/joke/Programming?format=txt > joke.txt
+          curl -s https://v2.jokeapi.dev/joke/Programming?format=txt
           joke_text=$(cat joke.txt | sed 's/"/\\"/g')
           echo "joke=$joke_text" >> $GITHUB_OUTPUT
 
