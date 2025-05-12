@@ -55,8 +55,10 @@ We keep things modern, modular, and maintainable:
 
 ## 🧠 Daily LOL (Because tech doesn’t have to be boring)
 
-> 🃏 *“{{DAILY_JOKE}}”*
-![Joke](https://readme-jokes.vercel.app/api)
+ 
+![Joke](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23000000&titleColor=%23fdd835&textColor=%23ffffff)
+
+
 <sub>*(This joke refreshes every day because even our README believes in self-care.)*</sub>
 
 ---
