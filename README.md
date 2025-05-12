@@ -21,7 +21,7 @@ Crafting sleek, scalable, and secure online stores that actually sell.
 ### 💻 Web Development  
 From landing pages to full-blown platforms — if you can dream it, we can dev it.
 
-### ⚖️ Lawyer Connect (🔥 Featured Project)  
+### ⚖️ AccountoLegal (🔥 Featured Project)  
 A smart platform that helps users connect with real, verified lawyers — fast.
 
 > Imagine Tinder. But for legal help. And without the awkward small talk.  
