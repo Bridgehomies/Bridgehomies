@@ -48,7 +48,7 @@ We keep things modern, modular, and maintainable:
 
 📧 homiesbridge@gmail.com  
 ## 🌐 Socials:
-[![Website](https://img.shields.io/badge/BridgeHomies-blue)](https://bridgehomies.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bridge-homies/) [(![X (formerly Twitter) URL](https://img.shields.io/twitter/url)(https://x.com/BridgeHomies)
+[![Website](https://img.shields.io/badge/BridgeHomies-blue)](https://bridgehomies.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bridge-homies/) [![X (formerly Twitter) (https://img.shields.io/twitter/url)](https://x.com/BridgeHomies)
  
 
 ---
