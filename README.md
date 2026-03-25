@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭We’re currently working on  <br>Building AI-powered systems and SaaS tools at Bridge Homies, including automation platforms, smart dashboards, and real-world solutions like EchoTrail (AI-based navigation system).<br><br>👯 We’re looking to collaborate on  <br>AI/ML projects, SaaS products, and scalable web platforms that solve real business problems.<br><br>🤝 We’re looking for help with  <br>Scaling AI products, optimizing system architecture, and exploring advanced automation workflows.<br><br>🌱 I’m currently learning  <br>Advanced AI engineering, system design at scale, and building high-converting SaaS products.<br><br>💬 Ask me about  <br>AI development, Django/Next.js stacks, automation systems, SaaS building, and turning ideas into actual products.<br><br>⚡ Fun fact  <br>We don’t like overplanning, We build fast, test fast, and figure things out in real time.
+# 💫 About Us:
+🔭We’re currently working on  <br>Building AI-powered systems and SaaS tools at Bridge Homies, including automation platforms, smart dashboards, and real-world solutions like EchoTrail (AI-based navigation system).<br><br>👯 We’re looking to collaborate on  <br>AI/ML projects, SaaS products, and scalable web platforms that solve real business problems.<br><br>🤝 We’re looking for help with  <br>Scaling AI products, optimizing system architecture, and exploring advanced automation workflows.<br><br>🌱 We're currently learning  <br>Advanced AI engineering, system design at scale, and building high-converting SaaS products.<br><br>💬 Ask me about  <br>AI development, Django/Next.js stacks, automation systems, SaaS building, and turning ideas into actual products.<br><br>⚡ Fun fact  <br>We don’t like overplanning, We build fast, test fast, and figure things out in real time.
 
 
 ## 🌐 Socials:
@@ -12,14 +12,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Bridgehomies&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bridgehomies&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Bridgehomies&theme=bear&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Bridgehomies&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Bridgehomies&icon=3&color=3)](https://visitcount.itsvg.in)
